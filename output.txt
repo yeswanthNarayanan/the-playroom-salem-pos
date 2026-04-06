@@ -1,0 +1,22 @@
+[dotenv@17.3.1] injecting env (2) from .env -- tip: ⚡️ secrets for agents: https://dotenvx.com/as2
+1. Adding item to T99...
+Successfully added.
+2. Fetching tickets...
+Tickets found: 2
+T99 data: {
+  "id": "T99",
+  "items": [
+    {
+      "id": "item1",
+      "name": "Test Burger",
+      "price": 10,
+      "quantity": 1
+    }
+  ],
+  "status": "pending",
+  "prepared_items": {},
+  "updated_at": "2026-03-24T12:11:29.908334+00:00"
+}
+T99 items isArray? true
+3. Cleaning up...
+Done.

@@ -1,0 +1,21 @@
+{
+    "name": "The playroom Salem POS",
+    "short_name": "The playroom Salem",
+    "description": "The playroom Salem Restaurant POS System",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "/logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
